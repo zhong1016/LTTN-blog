@@ -54,17 +54,24 @@
                 </a>
               </div>
               <div class="w-1/3 justify-center items-center flex">
-                <a href="https://github.com/zhong1016" target="_blank">
+                <a href="https://www.instagram.com/zhong1016" target="_blank">
                   <img
                     class="w-10 h-10"
                     src="@/assets/img/Instagram.svg"
-                    alt=""
+                    alt="instagram"
                   />
                 </a>
               </div>
               <div class="w-1/3 justify-center items-center flex">
-                <a href="https://www.instagram.com/zhong1016" target="_blank">
-                  <img class="w-10 h-10" src="@/assets/img/Github.svg" alt="" />
+                <a
+                  href="https://github.com/zhong1016/LTTN-blog"
+                  target="_blank"
+                >
+                  <img
+                    class="w-10 h-10"
+                    src="@/assets/img/Github.svg"
+                    alt="github"
+                  />
                 </a>
               </div>
             </div>
