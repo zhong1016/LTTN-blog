@@ -1,4 +1,15 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useHead({
+  title: '聆夜',
+  meta: [
+    {
+      name: 'description',
+      content: 'LTTN-Blog about coding note , such as Java JavaScript Golang',
+    },
+    { name: 'author', content: '聆夜' },
+  ],
+});
+</script>
 <template>
   <div class="bg-slate-50 h-[calc(100vh-66px)]">
     <main class="container mx-auto h-full">
